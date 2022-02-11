@@ -18,4 +18,8 @@ bin-release/
 # information for Eclipse / Flash Builder.
 .DS_Store
 /react-project/node_modules
+/goal-setting/node_modules
+/user-listing-app/node_modules
 /build
+
+package-lock.json
