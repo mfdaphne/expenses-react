@@ -17,9 +17,11 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 .DS_Store
+
 /react-project/node_modules
 /goal-setting/node_modules
 /user-listing-app/node_modules
 /build
+
 
 package-lock.json
